@@ -15,6 +15,7 @@ class primero{
         System.out.printf("Hola, mundo %d \n", primero.numero);
 
         System.out.printf("Hola, mundo %d \n", a.entero);
+        a.mostrar();
     }
 
 }
@@ -25,6 +26,6 @@ class interna {
         public interna (){}
 
         void mostrar () {
-            System.out.printf("ENTERO: %d\n", this.entero);
+            System.out.printf("ENTERO: %d\n", this.entero*5);
         }
     }
