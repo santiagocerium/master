@@ -1,3 +1,9 @@
 {
-    "java.project.sourcePaths": []
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "projectManager.git.baseFolders": [
+        "master"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
