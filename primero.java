@@ -14,7 +14,7 @@ class primero{
         primero.numero = contador;
         System.out.printf("Hola, mundo %d \n", primero.numero);
 
-        System.out.printf("Hola, mundo %d \n", a.entero);
+        System.out.printf("Hola, Santi %d \n", a.entero);
         a.mostrar();
     }
 
