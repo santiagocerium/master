@@ -7,7 +7,7 @@ class primero{
         interna a;
         a = new interna();
 
-        a.entero = 5;
+        a.entero = 7;
         a.mostrar();
         int contador = 1;
         System.out.printf("Hola, mundo %d \n", primero.numero);

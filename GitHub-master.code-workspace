@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "/workspaces/master"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"."
+		],
+		"projectManager.git.baseFolders": [
+			"master"
+		],
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
